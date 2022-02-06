@@ -1,7 +1,7 @@
 # FPA_Project_Forecast_Wallmart_Sales
 
 Kaggle challenge\
-FPA Project to create forecasting benchmarks. Analysis of different subsidiaries and different product categories along varying time horizons.
+FPA Project to create deterministic and probabilistic forecasting benchmarks. Analysis of different subsidiaries and different product categories along varying time horizons.
 
 
 ## Implementation:
